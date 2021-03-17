@@ -1,6 +1,3 @@
-#!/bin/bash
-
-
 # Default
 apt update
 apt dist-upgrade -y

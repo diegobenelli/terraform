@@ -48,14 +48,3 @@ output "jenkins-server" {
 output "gcp_image" {
  value = data.google_compute_image.webserver_image
 }
-
-
-
-
-
-
-
-
-
-
-

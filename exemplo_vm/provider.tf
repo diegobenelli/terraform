@@ -1,6 +1,6 @@
 provider "google" {
-  project = "diegogouvea-mbaimpacta-turma04"
+  project = "diego-impacta-turma4"
   region = "us-central1"
   zone = "us-central1-a"
-  credentials = "../../diegogouvea-mbaimpacta-turma04-d63f6a63566e.json"
+  credentials = "../../diego-impacta-turma4-8724376f16ae.json"
 }
